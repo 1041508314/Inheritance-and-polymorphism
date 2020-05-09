@@ -1,12 +1,5 @@
 package com.bit.demo3;
 
-/**
- * @program: 20200507
- * @description
- * 多态
- * @author: LiuXinYu
- * @create: 2020-05-08 17:40
- **/
 
 
 
